@@ -7,6 +7,10 @@ import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+// MaxTemp abc xyz
+// args[0] = abc
+// args[1] = xyz
+
 public class MaxTemp {
 
    public static void main(String[] args) throws Exception {
